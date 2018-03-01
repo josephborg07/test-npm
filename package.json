@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "0.1.0",
+  "description": "TestNpmPack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephborg07/test-npm.git"
+  },
+  "keywords": [
+    "testNPM"
+  ],
+  "author": "Joey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephborg07/test-npm/issues"
+  },
+  "homepage": "https://github.com/josephborg07/test-npm#readme"
+}
